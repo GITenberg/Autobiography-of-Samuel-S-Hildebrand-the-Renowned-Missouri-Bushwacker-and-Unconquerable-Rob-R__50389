@@ -1,4 +1,8 @@
 _repo: Autobiography-of-Samuel-S-Hildebrand-the-Renowned-Missouri-Bushwacker-and-Unconquerable-Rob-R__50389
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50389-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hildebrand, Samuel S.
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '45873'
     url: http://www.gutenberg.org/2009/agents/45873
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50389#Autobiography-of-Samuel-S-Hildebrand-the-Renowned-Missouri-Bushwacker-and-Unconquerable-Rob-R_
 gutenberg_issued: '2015-11-05'
 gutenberg_type: Text
 identifiers:
