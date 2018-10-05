@@ -25,6 +25,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Autobiography of Samuel S. Hildebrand, the Renowned Missouri ''Bushwacker''
   and Unconquerable Rob Roy of America
 
